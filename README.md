@@ -44,7 +44,7 @@ GIT_PS1_SHOWSTASHSTATE=1
 GIT_PS1_SHOWUPSTREAM="auto verbose"
 ```
 
-Setup git user
+Set-up git user
 
 ```
 git config --global user.name <your name>
